@@ -14,7 +14,7 @@ Beta com o Índice (IBOV): O beta mede a sensibilidade dos retornos da carteira 
 
 3. Análise Gráfica
 Gráfico de Linha: Retorno Acumulado: Este gráfico ilustra como o valor da carteira evoluiu ao longo do tempo, destacando períodos de crescimento e retração. É uma ferramenta visual crucial para entender a trajetória histórica da carteira.
-Gráfico de Barras: Ganhos Anuais vs. IBOV: Compara os retornos anuais da carteira com os do índice IBOV, permitindo uma avaliação clara do desempenho relativo. Este gráfico ajuda a identificar anos em que a carteira superou ou ficou aquém do índice de referência.
+Gráfico de Barras: Ganhos Anuais vs. IBOV: Comparar os retornos anuais da carteira com os do índice IBOV, permitindo uma avaliação clara do desempenho relativo. Este gráfico ajuda a identificar os anos em que a carteira superou ou ficou aquém do índice de referência.
 
 4. Conclusão
 A análise das métricas de desempenho e dos gráficos sugere que a carteira equally weighted oferece uma abordagem diversificada e equilibrada para investimento, embora o desempenho em relação ao mercado dependa de fatores como a volatilidade e o beta. A escolha de tal alocação pode ser benéfica para investidores buscando minimizar riscos específicos de ativos individuais enquanto capturam o crescimento do mercado em geral.
